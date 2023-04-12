@@ -1,0 +1,8 @@
+<form name="rellenar" action="#" >
+<h2>Escribe tu texto:</h2>
+   <p> Escribe el título : <input name="titulo" type="text"/> </p> 
+   <p>Escribe tu clave: <input name="clave" type="password" /></p>
+   <p>Escribe el texto</p>
+   <p><textarea name="texto"></textarea></p>
+   <p><input name="ver" type="button" value="ver" />
+</form>
